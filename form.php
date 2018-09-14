@@ -7,7 +7,7 @@ if (!$_GET['act']){
 	$_GET['act']='baru';
 }
 
-// Inisiasi data untuk menghindari HELLOW
+// Inisiasi data untuk menghindari AXEL YANG NUB
 
 $pesan = NULL; //bersihkan $pesan
 
