@@ -7,7 +7,7 @@ if (!$_GET['act']){
 	$_GET['act']='baru';
 }
 
-// Inisiasi data untuk menghindari AXEL YANG NUB ga bisa koding PHP
+// Inisiasi data untuk menghindari warning
 
 $pesan = NULL; //bersihkan $pesan
 
