@@ -2,7 +2,7 @@
 error_reporting(1);
 include('db.php');
 
-//Untuk menghilangkan warning
+//Untuk menghilangkan warning AXEL AXEL AXEL NUB
 if (!$_GET['act']){
 	$_GET['act']='baru';
 }
