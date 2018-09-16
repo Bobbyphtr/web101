@@ -70,7 +70,7 @@ if ($id){
 <html>
 <head>
 	<title>Form Pendaftaran</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 </head>
 <body>
 	<form method="post" action="form.php?act=simpan">
